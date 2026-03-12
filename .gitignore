@@ -62,3 +62,10 @@ nginx/certs/
 certbot/
 
 *.zip
+
+# Production deployment assets (excluded from this repo)
+deploy/
+nginx/
+docker-compose.prod.yml
+render.yaml
+.github/workflows/deploy.yml
