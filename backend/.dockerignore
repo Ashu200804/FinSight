@@ -1,0 +1,15 @@
+# Backend Docker build context exclusions
+.env
+.env.*
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv
+.git
+.github
+*.log
+storage/
+test*.py
+*.md

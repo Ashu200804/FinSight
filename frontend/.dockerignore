@@ -1,0 +1,8 @@
+# Frontend Docker build context exclusions
+node_modules
+build
+.git
+.github
+*.log
+.env
+.env.*
