@@ -56,6 +56,7 @@ docker compose up --build
 - This repository tracks development assets only.
 - Production deployment files are intentionally excluded from version control.
 - Virtual environments (`.venv/`) are ignored.
+- PPT Link for presentation : https://www.canva.com/design/DAHDun_5nIU/hDZ2JCBolDnj6tvI8q4KTQ/edit?utm_content=DAHDun_5nIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Useful Endpoints
 
